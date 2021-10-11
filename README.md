@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @KlaatuCarpenter
-- 👀 I’m interested in Blockchain.
-- 🌱 I’m currently learning creating Dapps on Ethereum.
-- 💞️ I’m looking to collaborate on DeFi.
+- 👀 I’m interested in new technologies.
+- 🌱 I’m currently learning web development.
 - 📬 You can reach me here: https://www.linkedin.com/in/damian-piorun-483a2a159/
 
 <!---
